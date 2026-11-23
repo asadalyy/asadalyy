@@ -9,7 +9,9 @@
 Passionate about **Artificial Intelligence, Machine Learning, and Data Science**, exploring intelligent solutions, data-driven insights, and practical applications through modern technologies.
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](https://pk.linkedin.com/in/asad-ali-08343036b)
-[<img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:asad.devv@gmail.com)
+<a href="mailto:asad.devv@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/asadalyy)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/alyy__47/)
 
